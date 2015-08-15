@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Organice</string>
+    <string name="mayordomo">Jarvis</string>
+    <string name="mensaje">¡Buen día señor!</string>
+    <string name="alti">Prioridad Altisima</string>
+    <string name="alto">Proridad Alta</string>
+    <string name="media">Prioridad Media</string>
+    <string name="baja">Prioridad Baja</string>
+    <string name="baji">Prioridad Bajisima</string>
+    <string name="action_settings">menu</string>
+    <string name="title_activity_main">Organice</string>
+</resources>
